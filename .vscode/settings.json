@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "math.h": "c",
+    "stdio.h": "c"
+  },
+  "fortran.gfortranExecutable": "gfortran-9",
+  "fortran.linterExtraArgs": [
+    "-Wall"
+  ],
+  "fortran.preferredCase": "uppercase",
+  "[fortran_fixed-form]": {
+    "editor.rulers": [
+      5, 6, 72
+    ],
+    "editor.folding": false,
+    "editor.renderIndentGuides": false,
+    "editor.renderWhitespace": "boundary"
+  },
+}
