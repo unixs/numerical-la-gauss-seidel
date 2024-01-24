@@ -1,0 +1,2 @@
+add_executable(gauss_seidel_test gauss_seidel_test.f)
+target_link_libraries(gauss_seidel_test gauss_seidel)
